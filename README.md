@@ -35,6 +35,6 @@ public:
 int main()
 {
 	Q<float, int> q;
-    std::cout << q.test(1.1f, 1); //2.1
+	std::cout << q.test(1.1f, 1); //2.1
 }
 ```
